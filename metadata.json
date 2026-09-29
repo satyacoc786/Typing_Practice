@@ -1,0 +1,6 @@
+{
+  "name": "TypoCraft - Pro Typing Game & Mastery Studio",
+  "description": "A sleek, responsive typing game and mastery suite with fluid caret motion, mechanical switch audio, live ghost pacer, and weak-key drills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
